@@ -1,0 +1,6 @@
+# The host for the shibboleth ingress
+host        = "shibboleth"
+# The domain for the shibbolth ingress
+domain      = "example.org"
+# The rancher URL
+rancher_url = "rancher.example.org"
